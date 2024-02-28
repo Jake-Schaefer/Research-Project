@@ -2,7 +2,7 @@
 For the course project, we will validate and refine the preprocessing of our downloaded datasets for the 153 traits, and the gold standard analysis with single-step regression for traits with available condition data. 
 
 **Task division:** Each teammate is randomly assigned 13-14 traits, see the [google sheet](https://docs.google.com/spreadsheets/d/1U5wjH1mfSHAogCuMTPz1BhyCHMNaZ1F9iDoXFwWbaIc/edit#gid=0) \
-**Deadline:** March 10th 2024, 11: 59 pm CT
+**Deadline:** March 10th 2024, 11: 59 pm CT (extended from March 3rd)
 
 ## Goals:
 1. In this stage, we will work together on the refinement of the GEO data preprocessing for the 153 traits in our question set. We will follow the pipeline in the notebook file [example](examples/Breast-Cancer.ipynb) to do the following:
