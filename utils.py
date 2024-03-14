@@ -17,7 +17,7 @@ from sparse_lmm import VariableSelection
 from statsmodels.stats.multitest import multipletests
 from sklearn.metrics import accuracy_score, mean_squared_error
 
-
+print("utils.py has been loaded")
 def geo_get_relevant_filepaths(cohort_dir):
     """Find the file paths of a SOFT file and a matrix file from the given data directory of a cohort.
     If there are multiple SOFT files or matrix files, simply choose the first one. Used for the GEO dataset.
